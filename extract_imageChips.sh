@@ -1,0 +1,35 @@
+tar zxvf ../../datasets/Rio/Rio_HGIS_Metro_extract/imageChips/Public_Access_POI_.tar.gz -C ../../datasets/Rio/Rio_HGIS_Metro_extract/imageChips_extracted/ &
+wait
+tar zxvf ../../datasets/Rio/Rio_HGIS_Metro_extract/imageChips/Libraries_.tar.gz -C ../../datasets/Rio/Rio_HGIS_Metro_extract/imageChips_extracted/ &
+tar zxvf ../../datasets/Rio/Rio_HGIS_Metro_extract/imageChips/Electrical_POI_.tar.gz -C ../../datasets/Rio/Rio_HGIS_Metro_extract/imageChips_extracted/ &
+tar zxvf ../../datasets/Rio/Rio_HGIS_Metro_extract/imageChips/Government_POI_.tar.gz -C ../../datasets/Rio/Rio_HGIS_Metro_extract/imageChips_extracted/ &
+tar zxvf ../../datasets/Rio/Rio_HGIS_Metro_extract/imageChips/Airfield_POI_.tar.gz -C ../../datasets/Rio/Rio_HGIS_Metro_extract/imageChips_extracted/ &
+tar zxvf ../../datasets/Rio/Rio_HGIS_Metro_extract/imageChips/Embassies_.tar.gz -C ../../datasets/Rio/Rio_HGIS_Metro_extract/imageChips_extracted/ &
+tar zxvf ../../datasets/Rio/Rio_HGIS_Metro_extract/imageChips/Recreation_POI_.tar.gz -C ../../datasets/Rio/Rio_HGIS_Metro_extract/imageChips_extracted/ &
+tar zxvf ../../datasets/Rio/Rio_HGIS_Metro_extract/imageChips/Prisons_.tar.gz -C ../../datasets/Rio/Rio_HGIS_Metro_extract/imageChips_extracted/ &
+tar zxvf ../../datasets/Rio/Rio_HGIS_Metro_extract/imageChips/Medical_Facilities_.tar.gz -C ../../datasets/Rio/Rio_HGIS_Metro_extract/imageChips_extracted/ &
+tar zxvf ../../datasets/Rio/Rio_HGIS_Metro_extract/imageChips/Public_Transportation_POI_.tar.gz -C ../../datasets/Rio/Rio_HGIS_Metro_extract/imageChips_extracted/ &
+tar zxvf ../../datasets/Rio/Rio_HGIS_Metro_extract/imageChips/Marine_POI_.tar.gz -C ../../datasets/Rio/Rio_HGIS_Metro_extract/imageChips_extracted/ &
+tar zxvf ../../datasets/Rio/Rio_HGIS_Metro_extract/imageChips/Tourist_Locations_POI_.tar.gz -C ../../datasets/Rio/Rio_HGIS_Metro_extract/imageChips_extracted/ &
+tar zxvf ../../datasets/Rio/Rio_HGIS_Metro_extract/imageChips/Olympic_Venues_.tar.gz -C ../../datasets/Rio/Rio_HGIS_Metro_extract/imageChips_extracted/ &
+tar zxvf ../../datasets/Rio/Rio_HGIS_Metro_extract/imageChips/Hydrology_POI_.tar.gz -C ../../datasets/Rio/Rio_HGIS_Metro_extract/imageChips_extracted/ &
+tar zxvf ../../datasets/Rio/Rio_HGIS_Metro_extract/imageChips/Airfields_.tar.gz -C ../../datasets/Rio/Rio_HGIS_Metro_extract/imageChips_extracted/ &
+tar zxvf ../../datasets/Rio/Rio_HGIS_Metro_extract/imageChips/Bridges_Tunnels_.tar.gz -C ../../datasets/Rio/Rio_HGIS_Metro_extract/imageChips_extracted/ &
+tar zxvf ../../datasets/Rio/Rio_HGIS_Metro_extract/imageChips/Cultural_POI_.tar.gz -C ../../datasets/Rio/Rio_HGIS_Metro_extract/imageChips_extracted/ &
+tar zxvf ../../datasets/Rio/Rio_HGIS_Metro_extract/imageChips/Lodging_POI_.tar.gz -C ../../datasets/Rio/Rio_HGIS_Metro_extract/imageChips_extracted/ &
+tar zxvf ../../datasets/Rio/Rio_HGIS_Metro_extract/imageChips/Natural_Resources_.tar.gz -C ../../datasets/Rio/Rio_HGIS_Metro_extract/imageChips_extracted/ &
+tar zxvf ../../datasets/Rio/Rio_HGIS_Metro_extract/imageChips/Educational_Institutions_.tar.gz -C ../../datasets/Rio/Rio_HGIS_Metro_extract/imageChips_extracted/ &
+tar zxvf ../../datasets/Rio/Rio_HGIS_Metro_extract/imageChips/Roads_POI_.tar.gz -C ../../datasets/Rio/Rio_HGIS_Metro_extract/imageChips_extracted/ &
+tar zxvf ../../datasets/Rio/Rio_HGIS_Metro_extract/imageChips/Commercial_POI_.tar.gz -C ../../datasets/Rio/Rio_HGIS_Metro_extract/imageChips_extracted/ &
+tar zxvf ../../datasets/Rio/Rio_HGIS_Metro_extract/imageChips/Public_Security_POI_.tar.gz -C ../../datasets/Rio/Rio_HGIS_Metro_extract/imageChips_extracted/ &
+tar zxvf ../../datasets/Rio/Rio_HGIS_Metro_extract/imageChips/Media_Outlets_.tar.gz -C ../../datasets/Rio/Rio_HGIS_Metro_extract/imageChips_extracted/ &
+tar zxvf ../../datasets/Rio/Rio_HGIS_Metro_extract/imageChips/Military_Installations_.tar.gz -C ../../datasets/Rio/Rio_HGIS_Metro_extract/imageChips_extracted/ &
+wait
+tar zxvf ../../datasets/Rio/Rio_HGIS_Metro_extract/imageChips/Power_Plants_.tar.gz -C ../../datasets/Rio/Rio_HGIS_Metro_extract/imageChips_extracted/ &
+tar zxvf ../../datasets/Rio/Rio_HGIS_Metro_extract/imageChips/Agricultural_POI_.tar.gz -C ../../datasets/Rio/Rio_HGIS_Metro_extract/imageChips_extracted/ &
+tar zxvf ../../datasets/Rio/Rio_HGIS_Metro_extract/imageChips/Religious_Institutions_.tar.gz -C ../../datasets/Rio/Rio_HGIS_Metro_extract/imageChips_extracted/ &
+tar zxvf ../../datasets/Rio/Rio_HGIS_Metro_extract/imageChips/Ports_.tar.gz -C ../../datasets/Rio/Rio_HGIS_Metro_extract/imageChips_extracted/ &
+tar zxvf ../../datasets/Rio/Rio_HGIS_Metro_extract/imageChips/Natural_POI_.tar.gz -C ../../datasets/Rio/Rio_HGIS_Metro_extract/imageChips_extracted/ &
+tar zxvf ../../datasets/Rio/Rio_HGIS_Metro_extract/imageChips/Railways_POI_.tar.gz -C ../../datasets/Rio/Rio_HGIS_Metro_extract/imageChips_extracted/ &
+tar zxvf ../../datasets/Rio/Rio_HGIS_Metro_extract/imageChips/Dams_.tar.gz -C ../../datasets/Rio/Rio_HGIS_Metro_extract/imageChips_extracted/ &
+tar zxvf ../../datasets/Rio/Rio_HGIS_Metro_extract/imageChips/Internet_Cafes_.tar.gz -C ../../datasets/Rio/Rio_HGIS_Metro_extract/imageChips_extracted/ &
